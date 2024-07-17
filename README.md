@@ -1,7 +1,2 @@
 # NLP2024
-### 欢迎大家！
-# a test change for cl
-
-## 不好意思我在尝试哈哈哈哈
-
-不好意思我再尝试一下
+We design a framework to minimize the unintended bias in toxicity classification problems. This project is based on a [Kaggle competition](https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification/).
